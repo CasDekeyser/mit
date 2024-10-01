@@ -1,0 +1,36 @@
+h1{font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: hotpink}
+
+p{font-family: 'Courier New', Courier, monospace;
+color: royalblue;}
+
+.zwart{color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+.bruin{color:saddlebrown;
+font-family: 'Times New Roman', Times, serif;}
+
+.wit{color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: powderblue;
+}
+
+p{font-size: small;
+    font-weight: 800;}
+
+img{width: 300px;
+    height: auto;
+}
+
+.aids{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.insta{
+    color: hotpink;
+}
+
